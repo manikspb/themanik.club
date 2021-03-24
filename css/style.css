@@ -35,8 +35,6 @@
 /* 1. Theme default css */
 /* line 4, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_reset.scss */
 body {
-  background: #333; /* Цвет фона */
-    color: #fc0;
   font-family: "Open Sans", sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -1328,7 +1326,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/1banner.png);
+  background-image: url(../img/banner.png);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slider.scss */
